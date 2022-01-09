@@ -1,0 +1,21 @@
+.intro__title {
+  margin: 0;
+  font-family: 'Inter-Black', 'Arial', sans-serif;
+  font-weight: 900;
+  text-align: left;
+  font-size: 32px;
+  line-height: 1.1;
+  margin-bottom: 40px;
+}
+
+@media (min-width: 768px) {
+  .intro__title {
+    font-size: 54px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .intro__title {
+    width: 690px;
+  }
+}

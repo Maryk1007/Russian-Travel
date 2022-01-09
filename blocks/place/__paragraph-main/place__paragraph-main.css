@@ -1,4 +1,4 @@
-.place__paragraph {
+.place__paragraph-main {
   margin: 0;
   margin-top: 25px;
   padding-left: 16px;
@@ -6,16 +6,17 @@
 }
 
 @media (min-width: 768px) {
-  .place__paragraph {
+  .place__paragraph-main {
     grid-column: 2/-1;
-    grid-row: 4/-1;
+    grid-row: 3/4;
+    margin: 0;
     padding: 0;
     width: 352px;
   }
 }
 
 @media (min-width: 1024px) {
-  .place__paragraph {
+  .place__paragraph-main {
     width: 456px;
     font-size: 18px;
     line-height: 1.6;
@@ -23,7 +24,7 @@
 }
 
 @media (min-width: 1280px) {
-  .place__paragraph {
+  .place__paragraph-main {
     width: 484px;
   }
 }
