@@ -5,9 +5,16 @@
   padding-bottom: 64px;
 }
 
+@media (min-width: 320px) {
+  .intro {
+    max-width: 288px;
+    margin: 0 auto;
+  }
+}
+
 @media (min-width: 768px) {
   .intro {
-    width: 720px;
+    max-width: 720px;
     margin: 0 auto;
     padding-left: 24px;
     padding-right: 24px;

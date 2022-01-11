@@ -11,6 +11,13 @@
   letter-spacing: 2px;
 }
 
+@media (min-width: 320px) {
+  .place__url-heading {
+    max-width: 288px;
+    margin: 0 auto;
+  }
+}
+
 @media (min-width:768px) {
   .place__url-heading {
     grid-column: 2/-1;
