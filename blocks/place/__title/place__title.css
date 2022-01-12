@@ -9,13 +9,6 @@
   line-height: 1.1;
 }
 
-@media (min-width: 320px) {
-  .place__title {
-    width: 288px;
-    margin: 0 auto;
-  }
-}
-
 @media (min-width: 768px) {
   .place__title {
     grid-column: 1/2;
