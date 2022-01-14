@@ -1,6 +1,7 @@
 .intro__term {
-  font-family: 'Inter-Bold', 'Arial', sans-serif;
-  font-weight: 900;
+  margin: 0;
+  font-family: 'Inter', 'Arial', sans-serif;
+  font-weight: 600;
   font-size: 12px;
   line-height: 1.5;
 

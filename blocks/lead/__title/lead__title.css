@@ -3,7 +3,8 @@
   width: 288px;
   text-align: center;
   margin-bottom: 16px;
-  font-family: 'Inter-Black', 'Arial', sans-serif;
+  font-family: 'Inter', 'Arial', sans-serif;
+  font-weight: 900;
   font-size: 40px;
   line-height: 1.1;
 }
