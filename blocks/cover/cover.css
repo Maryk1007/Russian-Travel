@@ -4,12 +4,7 @@
   margin: 0 auto;
   width: 320px;
   height: 200px;
-  margin-bottom: 64px;
-}
-
-.cover:hover {
-  background-color: #2A2C2F;
-  opacity: 0.8;
+  margin-bottom: 65px;
 }
 
 @media (min-width: 768px)  {

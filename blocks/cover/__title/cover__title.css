@@ -15,19 +15,6 @@
   .cover__title {
     width: 540px;
     font-size: 72px;
-    margin-top: 82px;
-    margin-bottom: 32px;
   }
 }
 
-@media (min-width: 1024px) {
-  .cover__title {
-    margin-top: 162px;
-  }
-}
-
-@media (min-width: 1280px) {
-  .cover__title {
-    margin-top: 212px;
-  }
-}
