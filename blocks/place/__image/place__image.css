@@ -2,6 +2,7 @@
   width: 320px;
   height: 320px;
   margin: 0 auto;
+  margin-bottom: 33px;
   display: block;
 }
 
@@ -9,7 +10,7 @@
   .place__image {
     margin: 0;
     grid-column: 1/2;
-    grid-row: 3/-1;
+    grid-row: 2/-1;
     width: 340px;
     height: 340px;
   }

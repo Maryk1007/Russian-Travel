@@ -12,7 +12,7 @@
   .place__item {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: repeat(5, min-content);
+    grid-template-rows: repeat(3, auto);
     column-gap: 28px;
     margin: 0 auto;
     margin-bottom: 73px;

@@ -1,0 +1,9 @@
+@media (min-width: 768px) {
+  .place__links {
+    grid-column: 2/-1;
+    grid-row: 1/2;
+    margin-bottom: 48px;
+    align-self: flex-end;
+  }
+}
+
