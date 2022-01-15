@@ -3,6 +3,7 @@
   text-decoration: none;
   display: block;
   height: 100%;
+  transition: background-color .3s ease-in;
 }
 
 .cover__link:hover {

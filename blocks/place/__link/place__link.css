@@ -8,10 +8,11 @@
   line-height: 1.2;
   font-weight: 400;
   color: #FFFFFF;
+  transition: opacity .3s ease-in;
 }
 
 .place__link:hover {
-  opacity: 0.8;
+  opacity: 0.5;
 }
 
 @media (min-width: 768px) {
