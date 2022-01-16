@@ -1,0 +1,6 @@
+@media (min-width: 768px) {
+  .place__text {
+    grid-column: 2/-1;
+    grid-row: 2/-1;
+  }
+}

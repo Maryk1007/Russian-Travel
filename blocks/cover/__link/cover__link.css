@@ -1,9 +1,13 @@
 .cover__link {
   color: #FFFFFF;
   text-decoration: none;
-  display: block;
-  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: inherit;
+  width: inherit;
   transition: background-color .3s ease-in;
+  z-index: 2;
 }
 
 .cover__link:hover {

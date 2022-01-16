@@ -5,7 +5,7 @@
   padding-right: 16px;
   margin-bottom: 32px;
   font-size: 18px;
-  line-height: 1.2;
+  line-height: 1.22;
   font-weight: 400;
   color: #FFFFFF;
   transition: opacity .3s ease-in;
@@ -21,6 +21,6 @@
     grid-row: 2/3;
     padding-left: 0;
     padding-right: 0;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
   }
 }
